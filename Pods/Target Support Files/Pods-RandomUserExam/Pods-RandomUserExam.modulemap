@@ -1,0 +1,6 @@
+framework module Pods_RandomUserExam {
+  umbrella header "Pods-RandomUserExam-umbrella.h"
+
+  export *
+  module * { export * }
+}
